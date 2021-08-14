@@ -10,3 +10,8 @@
 5. 'similar memories' - based on the hashtags (could be location, similarity, etc.)
 6. Featured Memories
 7. UI/UX improvements including 'responsive' 
+
+* things nice to do if possible!
+* 1. Use Valtio - global state management tool
+* 2. Use formidable - instead of 'base64' encoding and upload the image files instead of storing in mongodb
+  
