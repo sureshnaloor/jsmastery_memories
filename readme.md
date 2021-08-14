@@ -1,7 +1,7 @@
-# Memories app - using Nextjs, Moongodb as backend database & express
-## uses Formik as form component
-## nextjs auth is used for authentication
----
+### Memories app - using Nextjs, Moongodb as backend database & express
+### uses Formik as form component
+### nextjs auth is used for authentication
+
 *things to do as of 14 Aug 21*
 1. Reviews (1 star to 5 star) - similar to 'like' 
 2. Comments
